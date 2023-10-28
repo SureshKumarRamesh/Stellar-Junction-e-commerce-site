@@ -3,7 +3,7 @@
 
 # Watch the Video
 
-![](https://github.com/Suresh Kumar/Stellar-Junction-e-commerce-site/Project-preview-video.gif")
+![](https://github.com/SureshKumarRamesh/Stellar-Junction-e-commerce-site/assets/Project-preview-video.gif)
 
 # Getting Started with Create React App
 
