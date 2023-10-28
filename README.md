@@ -1,6 +1,10 @@
 # Project preview Image
 ![Project-preview-image](https://github.com/SureshKumarRamesh/Stellar-Junction-e-commerce-site/assets/141911216/291bfa8a-20c8-421f-aee2-c14f5a3ead48)
 
+# Watch the Video
+
+![](https://github.com/Suresh Kumar/Stellar-Junction-e-commerce-site/Project-preview-video.gif")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
