@@ -2,8 +2,7 @@
 ![Project-preview-image](https://github.com/SureshKumarRamesh/Stellar-Junction-e-commerce-site/assets/141911216/291bfa8a-20c8-421f-aee2-c14f5a3ead48)
 
 # Watch the Video
-
-![](https://github.com/SureshKumarRamesh/Stellar-Junction-e-commerce-site/assets/Project-preview-video.gif)
+![Stellar-Junction-Video](https://github.com/SureshKumarRamesh/Stellar-Junction-e-commerce-site/assets/141911216/fbcd18f1-3c27-4888-ac85-c82e46f47cb6)
 
 # Getting Started with Create React App
 
